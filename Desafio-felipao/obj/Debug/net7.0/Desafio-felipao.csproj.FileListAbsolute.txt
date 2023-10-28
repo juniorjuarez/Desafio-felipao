@@ -1,0 +1,15 @@
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\bin\Debug\net7.0\Desafio-felipao.exe
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\bin\Debug\net7.0\Desafio-felipao.deps.json
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\bin\Debug\net7.0\Desafio-felipao.runtimeconfig.json
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\bin\Debug\net7.0\Desafio-felipao.dll
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\bin\Debug\net7.0\Desafio-felipao.pdb
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\obj\Debug\net7.0\Desafio-felipao.csproj.AssemblyReference.cache
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\obj\Debug\net7.0\Desafio-felipao.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\obj\Debug\net7.0\Desafio-felipao.AssemblyInfoInputs.cache
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\obj\Debug\net7.0\Desafio-felipao.AssemblyInfo.cs
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\obj\Debug\net7.0\Desafio-felipao.csproj.CoreCompileInputs.cache
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\obj\Debug\net7.0\Desafio-felipao.dll
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\obj\Debug\net7.0\refint\Desafio-felipao.dll
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\obj\Debug\net7.0\Desafio-felipao.pdb
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\obj\Debug\net7.0\Desafio-felipao.genruntimeconfig.cache
+C:\CURSO-DOTNET\ProgramadorTech\Nova pasta\Desafio-felipao\Desafio-felipao\obj\Debug\net7.0\ref\Desafio-felipao.dll
