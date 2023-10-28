@@ -1,6 +1,4 @@
-﻿Claro, vou criar um README básico para o projeto com base no código fornecido:
-
-# Classificador de Nível de Herói
+﻿# Classificador de Nível de Herói
 
 Este é um projeto simples em C# que classifica o nível de um herói com base em sua experiência (XP). O programa permite ao usuário inserir o nome do herói e sua quantidade de experiência, e em seguida determina o nível correspondente com base em faixas de XP predefinidas.
 
